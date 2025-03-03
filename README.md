@@ -20,12 +20,6 @@ Imagine you are looking for a new mobile plan for your smartphone. Three major t
 
 You are tasked with implementing the **Visitor Design Pattern** based on the given diagram.
 
-## UML Diagram
-
-![UML Diagram](path-to-your-uml-diagram.png)
-
-You can refer to this diagram to understand the design and structure of the solution. It illustrates the various components, including **Telco**, **TelcoSubscription**, **UsagePromo**, and **UnliCallOffer**.
-
 ## Solution Implementation
 
 The code implements the **Visitor Design Pattern** to model the telco subscription plans. Below is the code for the **TelcoPromo** class, which demonstrates how the visitor pattern works.
